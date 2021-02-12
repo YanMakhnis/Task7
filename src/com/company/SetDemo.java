@@ -7,8 +7,8 @@ public class SetDemo {
 
     public static void main(String[] args) {
         Person person1 = new Person("Vladimir", "Putin", Gender.MALE);
-        Person person2 = new Person("Mikhail", "Saakashvili", Gender.MALE);
-        Person person3 = new Person("Margaret", "Tatcher", Gender.FEMALE);
+        Person person2 = new Person("Vladimir", "Zelenski", Gender.MALE);
+        Person person3 = new Person("Angela", "Merkel", Gender.FEMALE);
         Person person4 = new Person("Vladimir", "Zelenski", Gender.MALE);
         Person person5 = new Person("Angela", "Merkel", Gender.FEMALE);
 
